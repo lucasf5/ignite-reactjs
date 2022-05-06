@@ -1,46 +1,114 @@
-# Getting Started with Create React App
+<p align="center">
+   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/d1a0df3ad30c1af6658b9bf91056bc13d7b32d52/02-dtmoney/src/assets/logo.svg" alt="DT Money" width="280"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+   <a href="https://www.linkedin.com/in/lucasfpnt/">
+      <img alt="Lucas Ferreira" src="https://img.shields.io/badge/-Lucas Ferreira-2A2C39?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
 
-## Available Scripts
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-2A2C39">
+</p>
 
-In the project directory, you can run:
+> <b>DT Money</b> é o segundo projeto criado no chapter 2 da trilha de React do Ignite da [Rocketseat](https://github.com/Rocketseat). No projeto você é capaz de cadastrar entradas e saidas e consegue visualizar a listagem desses cadastros.
+<div align="center">
+  <sub>O <strong>DT Money</strong> foi desenvolvido com ❤︎ pelo
+    <a href="https://github.com/tavareshenrique">Henrique Tavares</a>
+  </sub>
+</div>
 
-### `yarn start`
+# :pushpin: Conteúdo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [:pushpin: Conteúdo](#pushpin-conteúdo)
+    - [Fotos](#fotos)
+- [:computer: Tecnologias](#computer-tecnologias)
+- [:construction_worker: Executando](#construction_worker-executando)
+- [:atom_symbol: Desafios](#atom_symbol-desafios)
+- [:computer: Autores](#computer-autores)
+- [:closed_book: Licença](#closed_book-licença)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Fotos
 
-### `yarn test`
+<div>
+   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/main/02-dtmoney/src/assets/previews/preview1.png" width="500px" />
+   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/main/02-dtmoney/src/assets/previews/preview2.gif" width="500px" />
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# :computer: Tecnologias
 
-### `yarn build`
+Este projeto foi feito utilizando as seguintes tecnologias:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Axios](https://github.com/axios/axios)
+- [MirageJS](https://miragejs.com/)
+- [React Modal](https://github.com/reactjs/react-modal)
+- [Styled Components](https://github.com/styled-components/styled-components)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# :construction_worker: Executando
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+# Clone o Repositório
+$ git@github.com:tavareshenrique/ignite-reactjs.git
+```
 
-### `yarn eject`
+```bash
+# Acesse a pasta do projeto
+$ cd 02-dtmoney
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+# Baixe as dependendências
+$ yarn
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+# Execute
+$ yarn start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Acesse <http://localhost:3000> para ver o resultado.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# :atom_symbol: Desafios
 
-## Learn More
+[Desafio 3](): desafio utilizando hooks.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[Desafio 4](): desafio transaformadno JS em TS e Class em Functional Components.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# :computer: Autores
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/lucasf5">
+        <img src="https://avatars.githubusercontent.com/u/49257942?s=400&u=97408bb77fec617d75b392c70feac7b96b7114dd&v=4" width="100px;" alt="Henrique Tavares"/>
+        <br />
+        <sub>
+          <b>Lucas Ferreira</b>
+        </sub>
+       </a>
+       <br />
+       <a href="https://www.linkedin.com/in/lucasfpnt/" title="Linkedin">@lucasfpnt</a>
+       <br />
+       <a href="https://www.linkedin.com/in/lucasfpnt/" title="Code">💻</a>
+    </td>
+    <td align="center">
+      <a href="http://github.com/lucasf5/">
+        <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Lucas Ferreira"/>
+        <br />
+        <sub>
+          <b>Rocketseat</b>
+        </sub>
+       </a>
+       <br />
+       <a href="https://github.com/Rocketseat" title="Linkedin">@Rocketseat</a>
+       <br />
+       <a href="https://avatars.githubusercontent.com/u/49257942?s=400&u=97408bb77fec617d75b392c70feac7b96b7114dd&v=4" title="Creators">🚀</a>
+    </td>
+  </tr>
+</table>
+
+# :closed_book: Licença
+
+Este projeto está sob a licença [MIT](./LICENSE).
