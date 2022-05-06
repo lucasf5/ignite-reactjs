@@ -20,8 +20,6 @@
     - [Github Explorer](#github-explorer)
   - [:two: Chapter II](#two-chapter-ii)
     - [DT Money](#dt-money)
-  - [:three: Chapter III](#three-chapter-iii)
-    - [ig.news](#ignews)
 - [:atom_symbol: Desafios](#atom_symbol-desafios)
   - [:one: Chapter I](#one-chapter-i-1)
   - [:two: Chapter II](#two-chapter-ii-1)
@@ -50,21 +48,11 @@
    </a>
 </p>
 
-## :three: Chapter III
-
-### ig.news
-
-<p align="center">
-  <a href="https://github.com/tavareshenrique/ignite-reactjs/tree/main/03-ignews">
-     <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/aefbfbe096e8817899c9f2b731aef8e4f130d26e/03-ignews/public/images/logo.svg" alt="ig.news" width="280"/>
-   </a>
-</p>
-
 # :atom_symbol: Desafios
 
 ## :one: Chapter I
 
-[Desafio 2](https://github.com/tavareshenrique/ignite-reactjs-desafio-2): Desafio de componentização.
+[Desafio 2](https://github.com/lucasf5/ignite-reactjs-desafio-2): Desafio de componentização.
 
 ## :two: Chapter II
 
