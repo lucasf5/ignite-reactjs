@@ -52,7 +52,7 @@
 
 ## :one: Chapter I
 
-[Desafio 2](https://github.com/tavareshenrique/ignite-reactjs-desafio-2): Desafio de componentização.
+[Desafio 2](https://github.com/lucasf5/ignite-reactjs-desafio-2): Desafio de componentização.
 
 ## :two: Chapter II
 
