@@ -66,19 +66,19 @@
   <tr>
     <td align="center">
       <a href="http://github.com/lucasf5">
-        <img src="https://avatars.githubusercontent.com/u/49257942?s=400&u=97408bb77fec617d75b392c70feac7b96b7114dd&v=4" width="100px;" alt="Henrique Tavares"/>
+        <img src="https://avatars.githubusercontent.com/u/49257942?s=400&u=97408bb77fec617d75b392c70feac7b96b7114dd&v=4" width="100px;" alt="Lucas Ferreira"/>
         <br />
         <sub>
           <b>Lucas Ferreira</b>
         </sub>
        </a>
        <br />
-       <a href="https://www.linkedin.com/in/lucasfpnt/" title="Linkedin">@lucasfpnt</a>
+       <a href="http://github.com/lucasf5" title="Linkedin">@lucasfpnt</a>
        <br />
        <a href="https://www.linkedin.com/in/lucasfpnt/" title="Code">💻</a>
     </td>
     <td align="center">
-      <a href="http://github.com/lucasf5/">
+      <a href="https://github.com/Rocketseat">
         <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Lucas Ferreira"/>
         <br />
         <sub>
