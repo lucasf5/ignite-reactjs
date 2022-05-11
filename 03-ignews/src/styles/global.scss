@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --Background: #121414;
+  --Shape: #1f2729;
+  --Titulo: #e1e1e6;
+  --Texto: #a8a8b3;
+
+  --white: #ffffff;
+  --Blue: #61dcfb;
+  --Green: #04d361;
+  --Yellow: #eba417;
+  --cinza-100: #eeeef0;
+  --cinza-200: #dcdce1;
+  --cinza-300: #cbcbd1;
+  --cinza-400: #b9b9c2;
+  --cinza-500: #a8a8b3;
+  --cinza-600: #86868f;
+  --cinza-700: #65656b;
+  --cinza-800: #1F2729;
+  --cinza-900: #222224;
+}
+
+html {
+  @media (max-width: 1080px) {
+    font-size: 93.75%; // 15px
+  }
+
+  @media (max-width: 720px) {
+    font-size: 87.5%; // 14px
+  }
+}
+
+body {
+  background-color: var(--Background);
+  color: var(--white);
+}
+
+body,
+input,
+textarea,
+select,
+button {
+  // weight | font-size | font-family
+  font: 400 1rem "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  // assumir a cor que está por volta dele. A cor do texto do elemento pai.
+  color: inherit;
+  text-decoration: none;
+}
+
+[disabled] {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
