@@ -107,7 +107,7 @@ Acesse <http://localhost:8080> para ver o resultado.
        <br />
        <a href="https://github.com/Rocketseat" title="Linkedin">@Rocketseat</a>
        <br />
-       <a href="https://avatars.githubusercontent.com/u/49257942?s=400&u=97408bb77fec617d75b392c70feac7b96b7114dd&v=4" title="Creators">🚀</a>
+       <a href="https://www.linkedin.com/school/rocketseat/" title="Creators">🚀</a>
     </td>
   </tr>
 </table>
